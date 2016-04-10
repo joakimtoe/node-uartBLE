@@ -1,0 +1,24 @@
+{
+    "name"         : "node-uartble",
+    "version"      : "0.0.1",
+    "description"  : "Nodes.js library for talking BLE with Nordic Semiconductors ble_app_uart SDK example",
+    "main": "index.js",
+    "dependencies": {
+      "noble-device": "~1.3.0"
+    },
+    "keywords": [
+      "noble-device",
+      "BLE",
+      "Nordic Semiconductor",
+      "UART",
+      "Bluetooth Low Energy",
+      "Bluetooth Smart",
+      "Bluetooth 4.0"
+    ],
+    "author": "Joakim Andre Tønnesen <joakimtoe@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/joakimtoe/node-uartble/issues"
+    },
+    "homepage": "https://github.com/joakimtoe/node-uartble"
+}
